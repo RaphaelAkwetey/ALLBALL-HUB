@@ -1,6 +1,6 @@
-# ALLBALL HUB
+# ALLBALL-HUB
 
-**ALLBALL HUB** is a simple football stats and highlights web application built with Node.js and Express.js for the backend, and HTML, CSS, and JavaScript for the frontend. It displays football statistics like top goal scorers, top teams, and football highlights.
+**ALLBALL-HUB** is a simple football stats and highlights web application built with Node.js and Express.js for the backend, and HTML, CSS, and JavaScript for the frontend. It displays football statistics like top goal scorers, top teams, and football highlights.
 
 ## Features
 - **Football Statistics**: Displays top goal scorers and top teams.
